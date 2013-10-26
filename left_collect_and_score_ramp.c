@@ -11,7 +11,6 @@
 
 #include "convayor_bot.c"
 #include "joystickDriver.c"
-#include "wave_front.c"
 
 
 
